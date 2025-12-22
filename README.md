@@ -1,5 +1,11 @@
 # Laravel Event-Driven Sync System (Redis + Horizon)
 
+![CI](https://github.com/aleksdjukic/laravel-event-driven-sync/actions/workflows/ci.yml/badge.svg)
+![PHP](https://img.shields.io/badge/PHP-8.4-blue)
+![Laravel](https://img.shields.io/badge/Laravel-12-red)
+![Redis](https://img.shields.io/badge/Redis-Queue-red)
+![Horizon](https://img.shields.io/badge/Laravel-Horizon-purple)
+
 This repository showcases a **production-style event-driven backend architecture**
 built with **Laravel**, **Redis queues**, and **Laravel Horizon**.
 
