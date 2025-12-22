@@ -85,6 +85,13 @@ php artisan test
 
 ---
 
+## Release & Changelog
+
+Release history and notable changes are documented in  
+[CHANGELOG.md](CHANGELOG.md).
+
+---
+
 ## Interview Pitch
 
 This project demonstrates how I design scalable, event-driven backend systems
