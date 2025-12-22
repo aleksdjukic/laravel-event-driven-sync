@@ -92,13 +92,6 @@ Release history and notable changes are documented in
 
 ---
 
-## Interview Pitch
-
-This project demonstrates how I design scalable, event-driven backend systems
-in Laravel using Redis queues, batch processing, and Horizon for observability.
-
----
-
 ## License
 
 All rights reserved.
