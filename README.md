@@ -85,6 +85,18 @@ php artisan test
 
 ---
 
+## CI/CD
+
+This project uses GitHub Actions to automatically validate the codebase on
+every push and pull request.
+
+The pipeline installs dependencies, prepares the Laravel environment,
+runs database migrations, and executes the test suite.
+Redis is provided as a service for queue-related functionality,
+while tests run deterministically using the sync queue driver.
+
+---
+
 ## Release & Changelog
 
 Release history and notable changes are documented in  
