@@ -5,6 +5,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-12-red)
 ![Redis](https://img.shields.io/badge/Redis-Queue-red)
 ![Horizon](https://img.shields.io/badge/Laravel-Horizon-purple)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 This repository showcases a **production-style event-driven backend architecture**
 built with **Laravel**, **Redis queues**, and **Laravel Horizon**.
@@ -111,4 +112,4 @@ Release history and notable changes are documented in
 
 ## License
 
-All rights reserved.
+MIT
