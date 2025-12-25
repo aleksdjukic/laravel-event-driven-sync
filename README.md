@@ -55,7 +55,6 @@ php artisan serve
 Trigger sync:
 
 POST /api/sync/products  
-GET /trigger-sync
 
 Local demo trigger:
 
